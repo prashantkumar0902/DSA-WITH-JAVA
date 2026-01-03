@@ -1,3 +1,3 @@
 # DSA-WITH-JAVA
-the platform where iam updating very single step .
-( DSA ind java.)
+the platform where iam updating very single step with
+( DSA in java ).
