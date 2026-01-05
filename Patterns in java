@@ -1,3 +1,39 @@
+//  1st this is the solid rectangle code //
+
+import java.util.Scanner;
+
+public class main (Sstring agrs[]) {
+    public static void main {
+         int n = 4;
+         int m = 5;
+
+       for (int i=1; i<=n; i++) {
+          for (int j=1; j<=m; j++){
+             system.out.print("*");
+          }
+            system.out.println();
+       }
+       
+    }
+}
+
+
+// this is the output
+
+*****
+*****
+*****
+*****
+
+//
+
+
+
+______________________________________________________________________________
+
+// 2nd this is the hollow rectangle //
+
+
 import java.util.Scanner;
 
 public class main {
@@ -20,3 +56,48 @@ public class main {
       }    
    }
 }
+
+
+
+// this is the output 
+
+*****
+*   *
+*   *
+*****
+
+//
+
+________________________________________________________________________
+
+// 3rd this is the half pyramid //
+
+
+import java.util.Scanner;
+
+public class main (Sstring agrs[]) {
+    public static void main {
+         int n = 4;
+         int m = 5;
+
+       for (int i=1; i<=n; i++) {
+          for (int j=1; j<=m; j++){
+             system.out.print("*");
+          }
+            system.out.println();
+       }
+       
+    }
+}
+
+
+
+
+// this is the output 
+
+*
+**
+***
+****
+
+//
