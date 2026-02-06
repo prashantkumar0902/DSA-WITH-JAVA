@@ -27,8 +27,6 @@ public class main (Sstring agrs[]) {
 
 //
 
-
-
 ______________________________________________________________________________
 
 // 2nd this is the hollow rectangle //
@@ -91,13 +89,9 @@ public class main (Sstring agrs[]) {
 }
 
 
-
-
 // this is the output 
 
 *
 **
 ***
 ****
-
-//
