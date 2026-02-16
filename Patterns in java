@@ -13,10 +13,8 @@ public class main (Sstring agrs[]) {
           }
             system.out.println();
        }
-       
     }
 }
-
 
 // this is the output
 
@@ -30,7 +28,6 @@ public class main (Sstring agrs[]) {
 ______________________________________________________________________________
 
 // 2nd this is the hollow rectangle //
-
 
 import java.util.Scanner;
 
@@ -54,7 +51,6 @@ public class main {
       }    
    }
 }
-
 
 
 // this is the output 
